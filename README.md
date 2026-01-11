@@ -8,7 +8,7 @@ The project demonstrates a complete analytics workflow using Excel, Python, SQL,
 ---
 
 ## Dataset
-- Source: Brazilian E-Commerce Public Dataset by Olist (Kaggle) ["https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data"]
+- Source: Brazilian E-Commerce Public Dataset by Olist [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data)
 - Approx. 100,000 orders
 - Multiple relational tables, including orders, customers, sellers, products, payments, reviews, and geolocation
 
@@ -135,9 +135,10 @@ olist-ecommerce-analysis/
 ## Author
 Soumi Mukherjee  
 Data Analyst 
-LinkedIN: ["www.linkedin.com/in/soumimukherjeeofficial"]
-Email: ["soumi.mukherjee2003@gmail.com"]
+![LinkedIN](www.linkedin.com/in/soumimukherjeeofficial)
+![Email](soumi.mukherjee2003@gmail.com)
 
 Skills: SQL, Python, Power BI, Excel, DAX, Power Query
 
-Overview: ["https://github.com/soumimukherjee22/data-analysis-olist-e_commerce-analysis-python-sql-power-bi/blob/main/Olist_Overview.png"]
+## Screenshots / Demos
+Overview: ![Dashboard Preview](https://github.com/soumimukherjee22/data-analysis-olist-e_commerce-analysis-python-sql-power-bi/blob/main/Olist_Overview.png)
