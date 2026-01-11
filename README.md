@@ -106,12 +106,12 @@ DIVIDE(
 
 olist-ecommerce-analysis/
 │
-├── data/              Raw and cleaned datasets
-├── sql/               SQL queries and views
-├── python/            Python notebooks for EDA
-├── excel/             Excel analysis files
-├── powerbi/           Power BI documentation and links
-├── dashboards/        Dashboard screenshots
+├── data/              #Raw and cleaned datasets
+├── sql/               #SQL queries and views
+├── python/            #Python notebooks for EDA
+├── excel/             #Excel analysis files
+├── powerbi/           #Power BI documentation and links
+├── dashboards/        #Dashboard screenshots
 └── README.md
 
 ---
