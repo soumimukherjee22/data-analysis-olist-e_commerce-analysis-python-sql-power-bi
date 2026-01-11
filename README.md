@@ -135,4 +135,5 @@ Skills: SQL, Python, Power BI, Excel, DAX, Power Query
 ## Screenshots / Demos
 Overview: ![Dashboard Preview](https://github.com/soumimukherjee22/data-analysis-olist-e_commerce-analysis-python-sql-power-bi/blob/main/Olist_Overview.png)
 Market: ![Market Dashboard](https://github.com/soumimukherjee22/data-analysis-olist-e_commerce-analysis-python-sql-power-bi/blob/Power-BI/Olist_Market.png)
+Product & Customer: ![Product & Customer Dashboard](https://github.com/soumimukherjee22/data-analysis-olist-e_commerce-analysis-python-sql-power-bi/blob/Power-BI/Olist_Product_%26_Customer.png)
 Summary: ![Project Summary](https://github.com/soumimukherjee22/data-analysis-olist-e_commerce-analysis-python-sql-power-bi/blob/main/Olist%20Brazilian%20E-Commerce%20Dashboard%20Summary.jpg)
